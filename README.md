@@ -99,23 +99,24 @@ Universidade Franciscana — UFN
 
 <div align="center">
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vitor-Dorneles&theme=github_dark"
-  alt="Resumo de atividade no GitHub"
-/>
+  <img
+    width="96%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vitor-Dorneles&theme=github_dark"
+    alt="Resumo de atividade no GitHub"
+  />
 
-<br>
+  <br><br>
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vitor-Dorneles&theme=github_dark"
-  height="180"
-  alt="Estatísticas do perfil"
-/>
+  <img
+    width="47%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vitor-Dorneles&theme=github_dark"
+    alt="Estatísticas do perfil"
+  />
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vitor-Dorneles&theme=github_dark"
-  height="180"
-  alt="Repositórios por linguagem"
-/>
+  <img
+    width="47%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vitor-Dorneles&theme=github_dark"
+    alt="Linguagens utilizadas nos repositórios"
+  />
 
 </div>
