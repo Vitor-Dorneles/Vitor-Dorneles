@@ -23,10 +23,9 @@
 
 ## Sobre mim
 
-Sou estudante de Ciência da Computação e desenvolvedor em formação, com muito interesse em tecnologia e desenvolvimento de software. Atualmente, foco meus estudos em **Java e Python**, utilizando conhecimentos teóricos em projetos acadêmicos e pessoais. Busco melhorar sempre minha lógica de programação, a organização do código e as boas práticas de desenvolvimento.
+Sou estudante de Ciência da Computação e desenvolvedor em formação, com foco atual em **Java e Python**. Busco com os conteúdos estudados na faculdade realizar projetos práticos, usando programação orientada a objetos, estruturas de dados, bancos de dados e mantendo a organização de código.
 
-Também atuo como voluntário no **Laboratório de Práticas da faculdade**, um projeto de extensão dedicado à criação de soluções de software para a comunidade e para a própria instituição. Nesse ambiente, colaboro na manutenção, melhoria e evolução de diferentes sistemas, adquirindo experiência prática em desenvolvimento colaborativo e resolução de problemas reais.
-
+Atuo como voluntário no **Laboratório de Práticas da UFN**, onde acompanho o desenvolvimento de sistemas com **Python e Django**, participo das discussões, testes e validações dos projetos.
 ## Conhecimentos
 
 <table>
