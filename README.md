@@ -1,18 +1,23 @@
 <div align="center">
 
 # 💻 Vitor Dorneles
-
-### Estudante de Ciência da Computação
+### Desenvolvedor em formação
 
 <p>
   Universidade Franciscana (UFN) · 4º semestre
 </p>
 
-<p>
+<p align="center">
   <a href="mailto:dorneles.vitor@ufn.edu.br">
     <img
-      src="https://img.shields.io/badge/Email-Contato-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Contato por e-mail"
+      src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"
+      alt="E-mail"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/vitor-dorneless/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
     />
   </a>
 </p>
@@ -25,7 +30,8 @@
 
 Sou estudante de Ciência da Computação e desenvolvedor em formação, com foco atual em **Java e Python**. Busco com os conteúdos estudados na faculdade realizar projetos práticos, usando programação orientada a objetos, estruturas de dados, bancos de dados e mantendo a organização de código.
 
-Atuo como voluntário no **Laboratório de Práticas da UFN**, onde acompanho o desenvolvimento de sistemas com **Python e Django**, participo das discussões, testes e validações dos projetos.
+Atuo como voluntário no **Laboratório de Práticas da UFN**, onde acompanho de perto o desenvolvimento de sistemas com **Python e Django**, participando das discussões, testes e validações dos projetos junto ao grupo.
+
 ## Conhecimentos
 
 <table>
@@ -33,7 +39,6 @@ Atuo como voluntário no **Laboratório de Práticas da UFN**, onde acompanho o 
     <td width="50%" valign="top">
 
 ### Desenvolvimento
-
 - Programação orientada a objetos
 - Estruturas de dados e algoritmos
 - Boas práticas
@@ -44,7 +49,6 @@ Atuo como voluntário no **Laboratório de Práticas da UFN**, onde acompanho o 
     <td width="50%" valign="top">
 
 ### Dados e infraestrutura
-
 - Modelagem de bancos de dados relacionais
 - SQL e MySQL
 - Modelagem de projetos de software
@@ -59,12 +63,10 @@ Atuo como voluntário no **Laboratório de Práticas da UFN**, onde acompanho o 
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=java,c,cpp,python,mysql&theme=dark"
-  alt="Java, C, C++, Python e MySQL"
+  src="https://skillicons.dev/icons?i=java,c,python,mysql&theme=dark"
+  alt="Java, C, Python e MySQL"
 />
-
 <br><br>
-
 <img
   src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"
   alt="Git, GitHub, Visual Studio Code e Linux"
@@ -74,8 +76,8 @@ Atuo como voluntário no **Laboratório de Práticas da UFN**, onde acompanho o 
 
 ## Formação acadêmica
 
-**Bacharelado em Ciência da Computação**  
-Universidade Franciscana — UFN  
+**Bacharelado em Ciência da Computação**
+Universidade Franciscana — UFN
 4º semestre · Em andamento · Conclusão prevista: 2028
 
 ### Disciplinas atuais
